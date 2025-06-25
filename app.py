@@ -39,7 +39,7 @@ null_fig.update_layout(
 
 
 app.layout=html.Div(className='my-div',children=[
-    html.H1("The best EDA App",),
+    html.H1("Quick Data Vizard",),
     html.Div(className='my-div',id='container',
         children=[html.Div(className='my-div',id='analysis',
                            children=[dcc.RadioItems(
