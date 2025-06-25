@@ -11,7 +11,8 @@
 - 📈 **Univariate Analysis**
   - Categorical columns → Bar plots
   - Numerical columns → Histograms, Box plots
- ![image](https://github.com/user-attachments/assets/00b108ad-a623-479f-a003-69fc174b6e42)
+![image](https://github.com/user-attachments/assets/3ce6c05d-15fa-4da9-87eb-e16fd8b026fd)
+
 
 
 
