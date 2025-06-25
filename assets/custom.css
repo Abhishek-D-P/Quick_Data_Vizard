@@ -1,0 +1,78 @@
+body{
+    background-color: #dbe3f0;
+
+}
+.my-div{
+    border-radius: 10px;
+    background-color: #dbe3f0;
+    padding:5px;
+}
+
+h1{
+    margin: 0;
+    text-align: center;
+}
+
+h2,p{
+    text-align: center;
+    padding: 0;
+    margin: 5px;
+}
+
+#container{
+    position:relative;
+    color:black;
+    padding:5px 5px;
+    display:grid;
+    grid-template-columns:2fr 1fr;
+    column-gap: 15px;
+    width:95%;
+    height:100%;
+    margin:auto;
+    height: 100%;
+}
+
+#analysis{
+    background-color: #fff;
+}
+
+#Analysis-selector{
+    background-color: #dbe3f0;
+    display: flex;
+    justify-content: space-around;
+    padding: 15px 15px ;
+    border-radius: 5px;
+}
+
+#data-desc{
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 5px;
+    margin: auto;
+    width: 100%;
+
+}
+
+#null-plot{
+    margin:auto;
+    width: 100%;
+    background: transparent;
+}
+
+#u_column_type_selector,#bi_column_type_selector{
+    background-color: #dbe3f0;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 5px 5px ;
+    border-radius: 5px;
+}
+
+#columns_selector{
+    margin:5px;
+}
+
+.dash-dropdown{
+    width: 300px;
+    display: inline-block;
+    margin:5px 20px;
+}
